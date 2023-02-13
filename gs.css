@@ -1,0 +1,16 @@
+p.speech {
+ font-family: Verdana; font-size:medium; color: black;
+}
+p.direction {
+    font-family: Cambria, Cochin, Georgia; font-size: small; 
+    color:black; background-color: azure;
+}
+p.direction:hover {
+    color:red; background-color: yellow
+}
+h5.Judge {
+    color:blueviolet; font-family:'Gill Sans'; font-size: medium;
+}
+h5.Imp {
+    color:green; font-family:Arial; font-size:medium
+}
