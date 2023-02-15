@@ -15,6 +15,23 @@ h5.Judge {
 h5.Imp {
     color:green; font-family:Arial, Helvetica, sans-serif; font-size:medium;
 }
+h5.Poorman {
+    color:blue; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size:medium;
+}
+
+h5.Judge:hover {
+    text-shadow:4px 2px 3px darkgreen; color:red; border-width:2px;
+    border-style:solid;  border-color:darkmagenta;
+}
+h5.Imp:hover {
+    text-shadow:2px 3px 2px peru; color:indigo; border-width:3px;
+    border-style:solid; border-color:darkred;
+}
+h5.Poorman:hover {
+    text-shadow:2px 3px 2px blue; color:darkred; border-width:3px;
+    border-style:dotted; border-color:green;
+}
 
 table {
     border : 2px solid dodgerblue; border-collapse: separate;
